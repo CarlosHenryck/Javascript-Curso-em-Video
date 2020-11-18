@@ -1,3 +1,3 @@
 # Javascript Curso em Video
  
- Exercícios, exemplos e anotações feitos durante o curso de Javascript do **Curso em Vídeo**
+ Exercícios, exemplos e anotações feitos durante o curso de Javascript do [**Curso em Vídeo**](https://www.youtube.com)
